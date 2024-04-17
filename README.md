@@ -1,6 +1,6 @@
 # API Test Automation with Postman
 
-This repository contains a collection of API tests implemented in Postman for the Simple Books API. The collection covers various scenarios, including creating clients, retrieving books, managing orders, and more.
+This repository contains a collection of API tests implemented in Postman for the [Simple Books API](https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md). The collection covers various scenarios, including creating clients, retrieving books, managing orders, and more. It also uses a Bearer Token to Authenticate.
 
 ## Instructions for Running the Tests
 
